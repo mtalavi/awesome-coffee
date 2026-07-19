@@ -27,6 +27,7 @@ A curated **and opinionated** list of resources for tech professionals, with the
 - [Controlling the Noise Around You](https://www.makeuseof.com/tag/focus-white-pink-brown-noise/)
 - [7 Ways To Stay Healthy As A Programmer](https://dev.to/desoga/7-ways-to-stay-healthy-as-a-programmer-3fjl)
 - [Staying focus](https://www.focusmate.com/)
+- [How Much Caffeine Is in Coffee? (CoffeeStudies)](https://coffeestudies.com/caffeine-health/how-much-caffeine-in-coffee)
 
 ## Better Sleep
 
@@ -38,6 +39,7 @@ A curated **and opinionated** list of resources for tech professionals, with the
 - [Get Better Sleep with Blackouts](https://www.youtube.com/watch?v=0O2gpMDUr7o)
 - [Setting the Stage for Sounder Sleep](https://www.health.harvard.edu/staying-healthy/setting-the-stage-for-sounder-sleep)
 - [Sleep Calculator](https://sleepcalculator.com/)
+- [Coffee and Sleep: The Caffeine Cutoff Window (CoffeeStudies)](https://coffeestudies.com/caffeine-health/coffee-and-sleep)
 
 ## Time Management
 
@@ -66,6 +68,7 @@ A curated **and opinionated** list of resources for tech professionals, with the
 ## ADHD Resources 🙈
 
 - [ADHD Entrepreneur? This changes everything...](https://www.youtube.com/watch?v=oXhc_YUO1Fo)
+- [Coffee and ADHD: What the Research Shows (CoffeeStudies)](https://coffeestudies.com/caffeine-health/coffee-and-adhd)
 
 ## Books
 
